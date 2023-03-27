@@ -9,6 +9,7 @@ for sample in sample_list:
         unique_list.append(sample)
 print(unique_list)
 
+# Convert list to tuple
 unique_tuple = tuple(unique_list)
 print(unique_tuple)
 
